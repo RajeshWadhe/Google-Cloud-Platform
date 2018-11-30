@@ -1,0 +1,85 @@
+*******************************************
+Google Cloud Platform
+*******************************************
+
+Google's Data Centre : Properties
+1) Renewable energy
+2) efficeiency
+3) data and security
+4) own servers
+
+GCP use data science to manage their data
+
+--------------------------------------------
+
+GCP: Global, regional, and zonal resources
+
+GCP Services:
+Compute, Networking, Storage and Databases, 
+Identity and Security,Big Data, Machine Learning
+Management Tools, Developer Tools
+
+NEW SERVICES LAUNCHED LAST YEAR:
+API and Eco-systems management
+Data Transfer
+
+
+COMPUTING SERVICES:
+Google App Engine -->
+just for deveopment
+can develop and push your code in it
+focus on code, server. cluster, 
+you are not bothered about infrastructure
+minimize operational control
+
+Cloud Function -->
+A serverless environment
+event based code
+dont want to run app when no one is using it.
+
+
+Google Compute Engine -->
+dont want to rewrite application 
+applications needs os level chnages
+need direct network access
+
+Google Container Engine -->
+docker container
+CPU and Memory 
+when you wnat to separate the app from the OS
+dont have dependancies on OS
+
+Google App Engine -->
+developer engine
+just write code and push it to platform
+
+Cloud Function -->
+true serverless environment
+nothing runs in the background
+when requires event-based code.
+dont want to to run app when no one is using it.
+
+
+________________________________________________
+
+Load balancing, Auto Scaling and HA -->
+High Availability (HA) 
+when some zone is not there (missing) , missing
+then cloud balancer it makes decision some zones are 
+available and forward to them.
+
+
+create a VM instance
+go to SSH
+a new window will open
+
+>>ls
+>>sudo su
+to go to root user
+>>exit
+
+
+
+
+
+
