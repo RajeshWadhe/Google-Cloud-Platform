@@ -1,0 +1,14 @@
+
+
+>>gcloud init
+
+project id: x-road-224110
+
+>>x-road-224110
+
+>>gcloud info
+
+>>gcloud spanner instances list
+
+>>gcloud components list
+
