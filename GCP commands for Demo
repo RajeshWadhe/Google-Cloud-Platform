@@ -12,3 +12,18 @@ project id: x-road-224110
 
 >>gcloud components list
 
+***********************************
+
+1) log in into your GCP account/ sign up gcp
+
+GCP Windows VM instance:
+
+username: rajeshwadhe
+
+password:  Yu@r2Uc}d]|p5}I
+
+***********************************
+
+https://cloud.google.com/compute/docs/quickstart-linux
+
+https://cloud.google.com/compute/docs/quickstart-windows
