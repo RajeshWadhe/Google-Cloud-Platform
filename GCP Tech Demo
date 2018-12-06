@@ -1,0 +1,46 @@
+
+
+1) Create a GCP Account --> use Gmail account to login
+   or sign up using new account --> 
+   Add a mastercard for the payment.
+   Once all done -> you will see dashboard.
+
+2) Dashboard:
+   What is Compute Engine and VM instance?
+   How to launch VM instance?
+   Quick launch Linux VM instance.
+   
+3) GCP Cloud Shell:
+   There is no need to install any software to run GCP 
+   Cloud Shell.
+   The console is installed on browser iteself.
+
+   NOTE: if you are inactive for 1 hour then 
+
+4) GCP Commands :
+
+   >>gcloud init
+   copy project id
+   >>x-road-224110
+
+   >>gcloud info
+   >>gcloud compute instances list
+   >>gcloud components list
+   
+5) How to open RDP and set up a password 
+
+6) i)   Google Compute Engine --> VM instance
+   ii)  Google App Engine  -->
+   iii) Google Cloud Function --> true serverless environment
+   iv)  Storage --> create buckets
+   v)   VPC Network 
+   vi)  Monitoring
+
+
+*******************************
+
+GCP Windows VM instance:
+username: rajeshwadhe
+password:  Yu@r2Uc}d]|p5}I
+
+*******************************
