@@ -12,6 +12,13 @@ project id: x-road-224110
 
 >>gcloud components list
 
+install one component
+>>gcloud compoenents install app-engine-java
+
+(if error-> try next command)
+
+>>sudo apt-get install google-cloud-sdk-app-engine-java
+
 ***********************************
 
 1) log in into your GCP account/ sign up gcp
