@@ -1,5 +1,6 @@
 
 
+
 1) Create a GCP Account --> use Gmail account to login
    or sign up using new account --> 
    Add a mastercard for the payment.
@@ -35,7 +36,8 @@
    iv)  Storage --> create buckets
    v)   VPC Network 
    vi)  Monitoring
-
+   vii) Billing
+   viii) IAM & admin
 
 *******************************
 
